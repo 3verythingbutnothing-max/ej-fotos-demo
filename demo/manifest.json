@@ -1,0 +1,326 @@
+{
+  "version": 1,
+  "isPublicDemo": true,
+  "notice": "Public software demonstration with Unsplash stock photos. No client photos, real payments, print orders, or private event access. Every sample file is publicly available; simulated purchases are saved only in this browser.",
+  "publicBaseUrl": "https://3verythingbutnothing-max.github.io/ej-fotos-demo/",
+  "events": [
+    {
+      "event": {
+        "id": "demo-evening",
+        "title": "An evening to remember",
+        "date": "2026-10-05",
+        "location": "Hudson Valley, NY",
+        "status": "live",
+        "isDemo": true,
+        "isListed": true,
+        "requiresPassword": false,
+        "accessVersion": 1,
+        "commerceVersion": 1,
+        "photoCount": 8,
+        "commerce": {
+          "downloadMode": "free",
+          "downloadPriceCents": 0,
+          "currency": "USD",
+          "printsEnabled": true,
+          "checkoutAvailable": true,
+          "checkoutMode": "demo"
+        },
+        "printProducts": [
+          {
+            "id": "paper-8x10",
+            "name": "Fine art paper · 8 × 10″",
+            "description": "A classic paper print for framing.",
+            "priceCents": 2500,
+            "currency": "USD",
+            "isSample": true
+          },
+          {
+            "id": "metal-8x10",
+            "name": "Metal print · 8 × 10″",
+            "description": "A modern metal display with vivid color.",
+            "priceCents": 8500,
+            "currency": "USD",
+            "isSample": true
+          },
+          {
+            "id": "glass-8x10",
+            "name": "Glass print · 8 × 10″",
+            "description": "A polished glass display for a favorite photograph.",
+            "priceCents": 12500,
+            "currency": "USD",
+            "isSample": true
+          }
+        ],
+        "guestUrl": "https://3verythingbutnothing-max.github.io/ej-fotos-demo/#/e/demo-evening",
+        "slideshowUrl": "https://3verythingbutnothing-max.github.io/ej-fotos-demo/#/e/demo-evening/slideshow"
+      },
+      "photos": [
+        {
+          "id": "demo-evening-001",
+          "eventId": "demo-evening",
+          "number": 1,
+          "filename": "ej-fotos-demo-evening-0001.jpg",
+          "caption": "Golden-hour vows",
+          "width": 1800,
+          "height": 1200,
+          "createdAt": "2026-10-05T17:00:01.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-001/thumbnail.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-001/display.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-001/thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-001/display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-001/download.jpg"
+        },
+        {
+          "id": "demo-evening-002",
+          "eventId": "demo-evening",
+          "number": 2,
+          "filename": "ej-fotos-demo-evening-0002.jpg",
+          "caption": "A table set for celebration",
+          "width": 1800,
+          "height": 1202,
+          "createdAt": "2026-10-05T17:00:02.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-002/thumbnail.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-002/display.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-002/thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-002/display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-002/download.jpg"
+        },
+        {
+          "id": "demo-evening-003",
+          "eventId": "demo-evening",
+          "number": 3,
+          "filename": "ej-fotos-demo-evening-0003.jpg",
+          "caption": "Just married",
+          "width": 1800,
+          "height": 1202,
+          "createdAt": "2026-10-05T17:00:03.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-003/thumbnail.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-003/display.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-003/thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-003/display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-003/download.jpg"
+        },
+        {
+          "id": "demo-evening-004",
+          "eventId": "demo-evening",
+          "number": 4,
+          "filename": "ej-fotos-demo-evening-0004.jpg",
+          "caption": "Before the guests arrive",
+          "width": 1800,
+          "height": 1202,
+          "createdAt": "2026-10-05T17:00:04.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-004/thumbnail.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-004/display.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-004/thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-004/display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-004/download.jpg"
+        },
+        {
+          "id": "demo-evening-005",
+          "eventId": "demo-evening",
+          "number": 5,
+          "filename": "ej-fotos-demo-evening-0005.jpg",
+          "caption": "The reception room",
+          "width": 1800,
+          "height": 1163,
+          "createdAt": "2026-10-05T17:00:05.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-005/thumbnail.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-005/display.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-005/thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-005/display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-005/download.jpg"
+        },
+        {
+          "id": "demo-evening-006",
+          "eventId": "demo-evening",
+          "number": 6,
+          "filename": "ej-fotos-demo-evening-0006.jpg",
+          "caption": "Flowers in hand",
+          "width": 1800,
+          "height": 1202,
+          "createdAt": "2026-10-05T17:00:06.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-006/thumbnail.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-006/display.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-006/thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-006/display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-006/download.jpg"
+        },
+        {
+          "id": "demo-evening-007",
+          "eventId": "demo-evening",
+          "number": 7,
+          "filename": "ej-fotos-demo-evening-0007.jpg",
+          "caption": "The little details",
+          "width": 1800,
+          "height": 1200,
+          "createdAt": "2026-10-05T17:00:07.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-007/thumbnail.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-007/display.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-007/thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-007/display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-007/download.jpg"
+        },
+        {
+          "id": "demo-evening-008",
+          "eventId": "demo-evening",
+          "number": 8,
+          "filename": "ej-fotos-demo-evening-0008.jpg",
+          "caption": "Under the garden arch",
+          "width": 1800,
+          "height": 2700,
+          "createdAt": "2026-10-05T17:00:08.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-008/thumbnail.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-008/display.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-008/thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-008/display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-evening/demo-evening-008/download.jpg"
+        }
+      ],
+      "qrUrl": "/ej-fotos-demo/demo/qr/demo-evening.svg"
+    },
+    {
+      "event": {
+        "id": "demo-paid",
+        "title": "Portraits worth keeping",
+        "date": "2026-10-05",
+        "location": "EJFoto Photography · Sample event",
+        "status": "live",
+        "isDemo": true,
+        "isListed": true,
+        "requiresPassword": false,
+        "accessVersion": 1,
+        "commerceVersion": 1,
+        "photoCount": 6,
+        "commerce": {
+          "downloadMode": "paid",
+          "downloadPriceCents": 500,
+          "currency": "USD",
+          "printsEnabled": true,
+          "checkoutAvailable": true,
+          "checkoutMode": "demo"
+        },
+        "printProducts": [
+          {
+            "id": "paper-8x10",
+            "name": "Fine art paper · 8 × 10″",
+            "description": "A classic paper print for framing.",
+            "priceCents": 2500,
+            "currency": "USD",
+            "isSample": true
+          },
+          {
+            "id": "metal-8x10",
+            "name": "Metal print · 8 × 10″",
+            "description": "A modern metal display with vivid color.",
+            "priceCents": 8500,
+            "currency": "USD",
+            "isSample": true
+          },
+          {
+            "id": "glass-8x10",
+            "name": "Glass print · 8 × 10″",
+            "description": "A polished glass display for a favorite photograph.",
+            "priceCents": 12500,
+            "currency": "USD",
+            "isSample": true
+          }
+        ],
+        "guestUrl": "https://3verythingbutnothing-max.github.io/ej-fotos-demo/#/e/demo-paid",
+        "slideshowUrl": "https://3verythingbutnothing-max.github.io/ej-fotos-demo/#/e/demo-paid/slideshow"
+      },
+      "photos": [
+        {
+          "id": "demo-paid-001",
+          "eventId": "demo-paid",
+          "number": 1,
+          "filename": "ej-fotos-demo-paid-0001.jpg",
+          "caption": "Golden-hour vows",
+          "width": 1800,
+          "height": 1200,
+          "createdAt": "2026-10-05T17:00:01.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-001/thumbnail-preview-v2.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-001/display-preview-v2.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-001/owned-thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-001/owned-display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-001/download.jpg"
+        },
+        {
+          "id": "demo-paid-002",
+          "eventId": "demo-paid",
+          "number": 2,
+          "filename": "ej-fotos-demo-paid-0002.jpg",
+          "caption": "A table set for celebration",
+          "width": 1800,
+          "height": 1202,
+          "createdAt": "2026-10-05T17:00:02.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-002/thumbnail-preview-v2.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-002/display-preview-v2.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-002/owned-thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-002/owned-display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-002/download.jpg"
+        },
+        {
+          "id": "demo-paid-003",
+          "eventId": "demo-paid",
+          "number": 3,
+          "filename": "ej-fotos-demo-paid-0003.jpg",
+          "caption": "Just married",
+          "width": 1800,
+          "height": 1202,
+          "createdAt": "2026-10-05T17:00:03.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-003/thumbnail-preview-v2.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-003/display-preview-v2.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-003/owned-thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-003/owned-display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-003/download.jpg"
+        },
+        {
+          "id": "demo-paid-004",
+          "eventId": "demo-paid",
+          "number": 4,
+          "filename": "ej-fotos-demo-paid-0004.jpg",
+          "caption": "Before the guests arrive",
+          "width": 1800,
+          "height": 1202,
+          "createdAt": "2026-10-05T17:00:04.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-004/thumbnail-preview-v2.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-004/display-preview-v2.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-004/owned-thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-004/owned-display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-004/download.jpg"
+        },
+        {
+          "id": "demo-paid-005",
+          "eventId": "demo-paid",
+          "number": 5,
+          "filename": "ej-fotos-demo-paid-0005.jpg",
+          "caption": "The reception room",
+          "width": 1800,
+          "height": 1163,
+          "createdAt": "2026-10-05T17:00:05.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-005/thumbnail-preview-v2.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-005/display-preview-v2.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-005/owned-thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-005/owned-display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-005/download.jpg"
+        },
+        {
+          "id": "demo-paid-006",
+          "eventId": "demo-paid",
+          "number": 6,
+          "filename": "ej-fotos-demo-paid-0006.jpg",
+          "caption": "Flowers in hand",
+          "width": 1800,
+          "height": 1202,
+          "createdAt": "2026-10-05T17:00:06.000Z",
+          "thumbnailUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-006/thumbnail-preview-v2.jpg",
+          "displayUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-006/display-preview-v2.jpg",
+          "ownedThumbnailUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-006/owned-thumbnail.jpg",
+          "ownedDisplayUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-006/owned-display.jpg",
+          "downloadUrl": "/ej-fotos-demo/demo/media/demo-paid/demo-paid-006/download.jpg"
+        }
+      ],
+      "qrUrl": "/ej-fotos-demo/demo/qr/demo-paid.svg"
+    }
+  ]
+}
